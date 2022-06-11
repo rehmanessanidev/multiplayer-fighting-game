@@ -6,14 +6,14 @@ implement collision and game physics.
 
 CONTROLS:
 
-Player 1 (Left)
-W - Move Left
-A - Jump
-D - Move Right
-Space - Attack
+Player 1 (Left):
+W - Move Left,
+A - Jump,
+D - Move Right,
+Space - Attack,
 
-Player 2 (Right)
-Arrow Left - Move Left
-Arrow Up - Jump
-Arrow Right - Move Right
-Arrow Down - Attack
+Player 2 (Right): 
+Arrow Left - Move Left,
+Arrow Up - Jump,
+Arrow Right - Move Right,
+Arrow Down - Attack,
